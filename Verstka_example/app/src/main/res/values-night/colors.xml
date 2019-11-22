@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorRed">#D32F2F</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorRedDark">#A51010</color>
+    <color name="colorAccent">#5023E7</color>
+    <color name="colorAccentYellow">#FBC02D</color>
+    <color name="colorTextDefault">#FFFFFF</color>
+    <color name="colorTextSecondary">#C7C7C7</color>
+    <color name="colorBackgroundHome">#414141</color>
+    <color name="colorBackgroundMain">#585858</color>
+    <color name="colorBackgroundSalary">#666666</color>
+    <color name="colorBackgroundItem">#666666</color>
+</resources>
