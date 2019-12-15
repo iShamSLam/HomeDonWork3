@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Verstka_example</string>
+    <string name="your_name">Your name</string>
+    <string name="your_deviceid">Your device</string>
+    <string name="btn_start_text">Ready to start?</string>
+    <string name="message">enter Your message here</string>
+    <string name="send">send</string>
 </resources>
